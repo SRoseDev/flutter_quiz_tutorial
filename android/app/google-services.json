@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1079415818303",
+    "project_id": "quiz-tutorial-e7432",
+    "storage_bucket": "quiz-tutorial-e7432.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079415818303:android:991dc269e6a15143b6108a",
+        "android_client_info": {
+          "package_name": "com.srdev.flutter_firebase_quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079415818303-al0mbgn93hal3f8cfkr0045pj5cpm9m4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo35l0RSyWZyCO_K1Y5GwUZSRuLdJ1kro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079415818303-al0mbgn93hal3f8cfkr0045pj5cpm9m4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1079415818303-463vm0ctpv9ghtj4lov33gl82qhc3emd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.srdev.quiz"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
